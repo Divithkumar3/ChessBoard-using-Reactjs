@@ -1,0 +1,41 @@
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f0f0;
+}
+
+table {
+  border-collapse: collapse;
+  cursor: pointer;
+  width: 800px;
+  height: 700px;
+}
+td:hover{
+  background-color: rgb(248, 104, 33);
+}
+tr {
+  height: 50px;
+}
+
+td {
+  width: 50px;
+  text-align: center;
+  border: 1px solid #ddd;
+  background-color: #fcfafa;
+}
+
+
+
+ FontAwesomeIcon {
+  font-size: 24px;
+}
+.g{
+  background-color: rgb(63, 62, 62);
+}
+.w{
+  background-color: rgb(162, 163, 163);
+}
+
